@@ -18,6 +18,7 @@ Visando reduzir a função de callback, utilizou-se uma arrowfunction simples.
 
 Através da requisição da lista html, foi realizado uma requisição http para realizar a busca dos pokemons. Com os resultados obtidos foi realizado uma converção de todas as estruturas de objetos de pokemons em uma estrutura de LI. para cada pokemon, realizou-se uma concatenação na "pokemonlist".
 
+Foi utilizado a função MAP com o intuito de dmiminuir a velocidade do código.
 
 
 
