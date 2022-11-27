@@ -1,4 +1,4 @@
-minhaPokedex.js
+MINHA POKEDEX
 
 Projeto de criação de uma Pokedex realizado durante o curso de formação de Javascript da Digital Inovation One.
 
@@ -15,3 +15,10 @@ Foi utilizado o “Media Query” para adequar as informações de acordo com o 
 A linguagem de programação utilizada neste projeto foi o Javascript.
 
 Visando reduzir a função de callback, utilizou-se uma arrowfunction simples.
+
+Através da requisição da lista html, foi realizado uma requisição http para realizar a busca dos pokemons. Com os resultados obtidos foi realizado uma converção de todas as estruturas de objetos de pokemons em uma estrutura de LI. para cada pokemon, realizou-se uma concatenação na "pokemonlist".
+
+
+
+
+
