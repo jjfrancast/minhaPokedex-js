@@ -14,3 +14,4 @@ Foi utilizado o “Media Query” para adequar as informações de acordo com o 
 
 A linguagem de programação utilizada neste projeto foi o Javascript.
 
+Visando reduzir a função de callback, utilizou-se uma arrowfunction simples.
